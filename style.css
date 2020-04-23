@@ -9,11 +9,12 @@ body {
 p {
   background-color: black;
   color: white;
-  font: italic-bold;
 }
 
 h1 {
-   background-color: purple;
+   background-color: black;
     text-align: center;
-      
+    text: bold;
+
+
 }
