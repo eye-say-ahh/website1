@@ -4,6 +4,7 @@
   font-size: 24px;
   margin: 0;
   line-height: 1;
+  color: gold;
   /*border: solid gold; */
 }
 body {
@@ -38,7 +39,7 @@ img {
 }
 
 a {
-  background-color: black;
+  background-color: none;
 }
 
 .box{
