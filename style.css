@@ -10,6 +10,7 @@
 
 .body {
   background-image: url(images/y-so-serious.png);
+  background-repeat: repeat;
   font-family: 'Roboto', sans-serif;
   font-size: 15px;
   margin: 0;
