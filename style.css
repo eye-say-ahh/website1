@@ -1,11 +1,13 @@
 /* Website Styles */
 *{
-  font-size: 125%;
+  font-family: 'roboto', sans-serif;
+  font-size: 24px;
   margin: 0;
   line-height: 1;
   /*border: solid gold; */
 }
 body {
+  background-image: url(images/y-so-serious.png);
   font-family: 'Roboto', sans-serif;
   font-size: 15px;
   margin: 0;
@@ -30,11 +32,31 @@ h1 {as
     text: bold;
 }
 
-img{
+img {
   height:350;
   width: 450;
 }
 
-a{
+a {
   background-color: black;
+}
+
+.box{
+  border: 1px solid black;
+  padding: 30px;
+  background-image: url(file.jpg);
+  background-repeat: no-repeat;
+}
+
+.Box p{
+  font-size: 24px;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+div {
+  margin: 0 auto;
 }
