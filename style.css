@@ -70,4 +70,13 @@ h1 {as
 .banner{
   height: 250px;
   background-image: url(images/kobe.jpg.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.photo{
+  background-position: 50% right;
+}
+
+.icon {background-position: 100px;
 }
