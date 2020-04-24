@@ -16,6 +16,9 @@ body {
   margin: 30px;
 }
 
+.title{
+  color: Black;
+}
 p {
   background-color: black;
   color: white;
