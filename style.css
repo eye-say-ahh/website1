@@ -37,7 +37,7 @@ h1 {as
     text: bold;
 }
 
-img {
+.img {
   height:350;
   width: 450;
 }
@@ -49,8 +49,8 @@ img {
 .box{
   border: 1px solid black;
   padding: 30px;
-  background-image: url(file.jpg);
-  background-repeat: no-repeat;
+  background-image: url(images/y-so-serious.png)
+  background-repeat: repeat;
 }
 
 .Box p{
