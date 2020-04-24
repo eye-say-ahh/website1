@@ -19,6 +19,10 @@ body {
   margin: 30px;
 }
 
+header {
+  color: gold;
+}
+
 .title{
   color: Black;
 }
