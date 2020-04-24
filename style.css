@@ -7,7 +7,8 @@
   color: gold;
   /*border: solid gold; */
 }
-body {
+
+.body {
   background-image: url(images/y-so-serious.png);
   font-family: 'Roboto', sans-serif;
   font-size: 15px;
@@ -19,7 +20,7 @@ body {
   margin: 30px;
 }
 
-header {
+.h1 {
   color: gold;
 }
 
