@@ -9,7 +9,7 @@
 }
 
  body {
-  background-image: url(images/y-so-serious.png);
+  background-image: url(images/y.png);
   background-image: repeat;
   font-family: 'Roboto', sans-serif;
   font-size: 15px;
@@ -50,7 +50,7 @@ h1 {as
 .box{
   border: 1px solid black;
   padding: 30px;
-  background-image: url(images/y-so-serious.png)
+  background-image: url(images/y.png)
   background-repeat: repeat;
 }
 
@@ -69,7 +69,7 @@ h1 {as
 
 .banner{
   height: 250px;
-  background-image: url(images/kobe.jpg.jpg);
+  background-image: url(images/kobe.jpg);
   background-size: cover;
   background-position: center;
 }
