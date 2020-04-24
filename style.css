@@ -1,7 +1,9 @@
 /* Website Styles */
 *{
   font-size: 100%;
-  border: solid gold;
+  margin: 0;
+  line-height: 1;
+  /*border: solid gold; */
 }
 body {
   font-family: 'Roboto', sans-serif;
